@@ -1,3 +1,4 @@
 mySunshineApp.iml
 .idea/
 .gradle/
+build/*
