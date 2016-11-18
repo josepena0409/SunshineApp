@@ -4,3 +4,4 @@ mySunshineApp.iml
 build/*
 SunshineApp.iml
 local.properties
+*.iml
