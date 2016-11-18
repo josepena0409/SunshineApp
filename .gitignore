@@ -2,3 +2,5 @@ mySunshineApp.iml
 .idea/
 .gradle/
 build/*
+SunshineApp.iml
+local.properties
